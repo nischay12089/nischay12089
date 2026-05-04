@@ -3,7 +3,7 @@
 <div align="center">
 
 <!--Stats-->
-[![GitHub Profile](https://YOUR-VERCEL-URL.vercel.app/api/github-card?username=nischay12089)](https://github.com/nischay12089)
+<img src="https://your-vercel-domain.vercel.app/api/github-header" alt="Nischay Tamhankar GitHub Header" />
 
 
 
