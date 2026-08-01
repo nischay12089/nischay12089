@@ -2,7 +2,9 @@
 <!--Stats-->
 <div align=center>
   WELCOME TO Nischay's Profile </div>
-    Devices i Own
+  <br>
+    Devices i Own :-
+    <br>
     <p>
       POCO F7 (Onyx)
       <br> 
