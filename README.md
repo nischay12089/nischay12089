@@ -3,8 +3,24 @@
 <div align="center">
 
 <!--Stats-->
-<img src="https://your-vercel-domain.vercel.app/api/github-header" alt="Nischay Tamhankar GitHub Header" />
+<div>
+  <title>
+  WELCOME TO Nischay's Profile
+  </title>
+  <br>
+  <div>
+    <title>Devices i Own</title>
+    <p>
+      POCO F7 (Onyx)
+      <br> 
+      POCO F6 (Peridot)
+      <br>
+      POCO F5 (Marble)
+    </p>
+  </div>
 
-
-
-
+<div>
+  <title align=center>Tech Skills</title>
+  <p>Building android applications via kotlin <br> Android Open-Source Contributer <br> Maintainer for android Open-source projects <br></p>
+</div>
+</div>
