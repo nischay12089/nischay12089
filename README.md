@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!--Stats-->
-
-  WELCOME TO Nischay's Profile 
+<div align=center>
+  WELCOME TO Nischay's Profile </div>
     Devices i Own
     <p>
       POCO F7 (Onyx)
@@ -12,5 +12,5 @@
     </p>
 
   Tech Skills
-  Building android applications via kotlin <br> Android Open-Source Contributer <br> Maintainer for android Open-source projects <br>
+  <br>Building android applications via kotlin <br> Android Open-Source Contributer <br> Maintainer for android Open-source projects <br>
 
