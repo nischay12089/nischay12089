@@ -3,13 +3,11 @@
 <div align="center">
 
 <!--Stats-->
-<div>
-  <title>
+
   WELCOME TO Nischay's Profile
-  </title>
   <br>
   <div>
-    <title>Devices i Own</title>
+    Devices i Own
     <p>
       POCO F7 (Onyx)
       <br> 
@@ -19,8 +17,6 @@
     </p>
   </div>
 
-<div>
-  <title align=center>Tech Skills</title>
-  <p>Building android applications via kotlin <br> Android Open-Source Contributer <br> Maintainer for android Open-source projects <br></p>
-</div>
-</div>
+  Tech Skills
+  Building android applications via kotlin <br> Android Open-Source Contributer <br> Maintainer for android Open-source projects <br>
+
