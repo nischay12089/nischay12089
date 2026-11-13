@@ -59,9 +59,9 @@ I use **Claude Code** and **OpenAI Codex** as part of my day-to-day engineering 
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nischay12089&show_icons=true&hide_border=true" alt="GitHub statistics" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischay12089&layout=compact&hide_border=true" alt="Most used languages" />
 </div>
 
 ---
