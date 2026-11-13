@@ -4,12 +4,6 @@
   <a href="https://komarev.com/ghpvc/?username=nischay12089">
     <img src="https://komarev.com/ghpvc/?username=nischay12089&label=Profile%20views&color=00FFFF&style=flat-square" alt="nischay12089's profile views" />
   </a>
-</p><img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Nischay%20Tamhankar%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Android%20%26%20Software%20Developer%20%7C%20Building%20Apps%2C%20Custom%20ROMs%20%26%20System-Level%20Solutions%20%7C%20AI-Driven%20Engineering%20with%20Claude%20Code%20%26%20Codex&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=nischay12089">
-    <img src="https://komarev.com/ghpvc/?username=nischay12089&label=Profile%20views&color=00FFFF&style=flat-square" alt="nischay12089's profile views" />
-  </a>
 </p>
 
 
