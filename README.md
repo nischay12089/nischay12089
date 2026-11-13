@@ -63,6 +63,19 @@ I use **Claude Code** and **OpenAI Codex** as part of my day-to-day engineering 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischay12089&layout=compact&hide_border=true" alt="Most used languages" />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nischay12089&theme=dark" alt="GitHub Streak" />
+
+  <br/><br/>
+
+</div>
+
+<br/>
 ---
 
 <div align="center">
