@@ -1,14 +1,11 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Nischay%20Tamhankar%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Android%20%26%20Software%20Developer%20%7C%20Building%20Apps%2C%20Custom%20ROMs%20%26%20System-Level%20Solutions%20%7C%20AI-Driven%20Engineering%20with%20Claude%20Code%20%26%20Codex&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-# Hi, I'm Nischay 👋
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=nischay12089">
+    <img src="https://komarev.com/ghpvc/?username=nischay12089&label=Profile%20views&color=00FFFF&style=flat-square" alt="nischay12089's profile views" />
+  </a>
+</p>
 
-### Android Developer · Software Engineer · System-Level Developer
-
-**Building Android applications, custom ROMs, and software solutions — with AI-assisted engineering as part of my workflow.**
-
-</div>
-
----
 
 ## About Me
 
@@ -55,31 +52,85 @@ I use **Claude Code** and **OpenAI Codex** as part of my day-to-day engineering 
 - Reliable automation and AI-assisted software engineering practices.
 - Building useful software projects with clean, maintainable code.
 
-## GitHub Activity
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/nischay12089">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nischay12089&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="nischay12089's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=nischay12089&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nischay12089's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=nischay12089&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nischay Tamhankar 's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nischay12089&theme=nightowl&radius=10" alt="nischay12089's Activity Graph" />
+</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nischay12089&show_icons=true&hide_border=true" alt="GitHub statistics" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischay12089&layout=compact&hide_border=true" alt="Most used languages" />
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-  <br/>
+## 🛠️ Languages & Tools
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nischay12089&theme=dark" alt="GitHub Streak" />
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />
 
-  <br/><br/>
+</p>
 
-</div>
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-<br/>
----
+</p>
 
-<div align="center">
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
 
-**Interested in Android engineering, software development, and thoughtful use of AI coding tools.**
+</p>
 
-</div>
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/nischay12089">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nischay12089&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://in.linkedin.com/in/nischay-tamhankar"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Nischay Tamhankar 's LinkedIn"/></a>
+  <a href="mailto:nischaytamhankar11@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Nischay Tamhankar 's Email"/></a>
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/nischay12089" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
