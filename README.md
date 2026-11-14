@@ -46,9 +46,6 @@ I use **Claude Code** and **OpenAI Codex** as part of my day-to-day engineering 
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/nischay12089">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nischay12089&amp;cache_seconds=7200&amp;layout=compact&amp;theme=nightowl&amp;border_radius=10" alt="nischay12089's GitHub Stats" />
-  </a>
   <img src="https://streak-stats.demolab.com/?user=nischay12089&amp;theme=nightowl&amp;hide_border=true&amp;cache_seconds=86400" alt="nischay12089's GitHub Streak" width="49%" />
 </p>
 <p align="center">
