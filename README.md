@@ -121,5 +121,5 @@ I use **Claude Code** and **OpenAI Codex** as part of my day-to-day engineering 
 <p align="center">
   <a href="https://in.linkedin.com/in/nischay-tamhankar"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=00FFFF" alt="Nischay Tamhankar 's LinkedIn"/></a>
   <a href="mailto:nischaytamhankar11@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color=00FFFF" alt="Nischay Tamhankar 's Email"/></a>
-  <a href="https://www.buymeacoffee.com/nischay12089" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+  <a href="https://www.buymeacoffee.com/nischay12089" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
