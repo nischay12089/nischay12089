@@ -1,12 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:000000,100:a371f7&amp;text=Nischay%20Tamhankar%20&amp;fontSize=60&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Android%20%26%20Software%20Developer%20%7C%20Building%20Apps%2C%20Custom%20ROMs%20%26%20System-Level%20Solutions%20%7C%20AI-Driven%20Engineering%20with%20Claude%20Code%20%26%20Codex&amp;descSize=22&amp;descColor=FFFFFF&amp;descAlignY=65" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=nischay12089">
-    <img src="https://komarev.com/ghpvc/?username=nischay12089&amp;label=Profile%20views&amp;color=00FFFF&amp;style=flat-square" alt="nischay12089's profile views" />
-  </a>
-</p>
-
-
 ## About Me
 
 I'm a developer focused on **Android application development**, **software engineering**, and **Android platform customization**. I enjoy working across the stack: from user-facing applications to the lower-level services and frameworks that power Android devices.
@@ -130,6 +121,5 @@ I use **Claude Code** and **OpenAI Codex** as part of my day-to-day engineering 
 <p align="center">
   <a href="https://in.linkedin.com/in/nischay-tamhankar"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;color=00FFFF" alt="Nischay Tamhankar 's LinkedIn"/></a>
   <a href="mailto:nischaytamhankar11@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color=00FFFF" alt="Nischay Tamhankar 's Email"/></a>
+  <a href="https://www.buymeacoffee.com/nischay12089" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/nischay12089" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
