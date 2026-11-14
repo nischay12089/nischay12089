@@ -51,24 +51,9 @@ I use **Claude Code** and **OpenAI Codex** as part of my day-to-day engineering 
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=nischay12089&amp;theme=nightowl&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;cache_seconds=86400" alt="Nischay Tamhankar 's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nischay12089&amp;theme=nightowl&amp;radius=10" alt="nischay12089's Activity Graph" />
-</p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&#160;&#160;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&#160;&#160;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&#160;&#160;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&#160;&#160;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&#160;&#160;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
 
 ## 🔗 Connect with Me
 <p align="center">
