@@ -26,7 +26,6 @@ I use **Claude Code** and **OpenAI Codex** as part of my day-to-day engineering 
 | Review & validation | Examine changes, identify edge cases, and plan tests before integration. |
 | Documentation | Maintain technical notes, implementation plans, and project documentation. |
 
-> **My approach:** Understand the problem → plan the solution → implement carefully → test and iterate.
 
 ## Technologies & Tools
 
